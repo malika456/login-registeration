@@ -20,5 +20,5 @@ npm install
 Run the development server:
 npm start
 
-🔗 Integration
+🔗 Integration:
 Simply include these pages in your React project and connect them with your authentication backend (e.g., Firebase, Node.js, Django).
