@@ -1,4 +1,4 @@
-Login & Registration Pages
+Login & Registration Pages -
 This repository contains ready-to-use login and registration pages built with React. You can seamlessly integrate them into any project without hassle.
 
 ✨ Features
